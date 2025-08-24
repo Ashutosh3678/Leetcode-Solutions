@@ -29,34 +29,34 @@ Open a solution
 
 2.Open any .cpp file in your editor (VS Code, CLion, Code::Blocks, DevC++, etc.).
 
-3.Compile & Run
-
-g++ solution.cpp -o solution
-./solution
+3. **Compile & Run**
+   ```bash
+   g++ solution.cpp -o solution./solution
+   
 
 ✨ Features
 
-🗂️ Structured problem-wise folders
+->🗂️ Structured problem-wise folders
 
-🔵 Pure C++ solutions (no extra libraries)
+->🔵 Pure C++ solutions (no extra libraries)
 
-📑 Covers multiple topics: Arrays, Strings, Linked Lists, Trees, DP, Graphs, etc.
+->📑 Covers multiple topics: Arrays, Strings, Linked Lists, Trees, DP, Graphs, etc.
 
-⚡ Easy to browse, compile, and run
+->⚡ Easy to browse, compile, and run
 
 🛣️ Roadmap
 
-🔹 Add topic-wise categorization (DP, Graphs, etc.)
+->🔹 Add topic-wise categorization (DP, Graphs, etc.)
 
-🔹 Include detailed explanations & complexity analysis
+->🔹 Include detailed explanations & complexity analysis
 
-🔹 Add unit tests for solutions
+->🔹 Add unit tests for solutions
 
 🤝 Contributing
 
-Contributions are welcome! 🎉
+->Contributions are welcome! 🎉
 
-Open an issue to suggest improvements
+->Open an issue to suggest improvements
 
 Submit a pull request with new solutions or explanations
 
