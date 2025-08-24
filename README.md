@@ -33,8 +33,9 @@ Open a solution
    ```bash
    g++ solution.cpp -o solution./solution
    
+---
 
-✨ Features
+## ✨ Features
 
 ->🗂️ Structured problem-wise folders
 
@@ -44,7 +45,9 @@ Open a solution
 
 ->⚡ Easy to browse, compile, and run
 
-🛣️ Roadmap
+---
+
+## 🛣️ Roadmap
 
 ->🔹 Add topic-wise categorization (DP, Graphs, etc.)
 
@@ -52,14 +55,12 @@ Open a solution
 
 ->🔹 Add unit tests for solutions
 
-🤝 Contributing
+---
+
+## 🤝 Contributing
 
 ->Contributions are welcome! 🎉
 
 ->Open an issue to suggest improvements
 
 Submit a pull request with new solutions or explanations
-
-📜 License
-
-This project is licensed under the MIT License.
