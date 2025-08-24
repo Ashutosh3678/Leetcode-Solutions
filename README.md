@@ -2,7 +2,6 @@
 
 [![Made with C++](https://img.shields.io/badge/Made%20with-C++-00599C?logo=cplusplus&logoColor=white)](https://isocpp.org/)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-Problems-orange?logo=leetcode&logoColor=white)](https://leetcode.com/)  
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
 
 📘 This repository contains my **C++ solutions** to various **LeetCode problems**, written with clean and efficient code.  
 Great for **interview prep** and practicing **algorithms/data structures**.  
