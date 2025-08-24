@@ -1,54 +1,65 @@
-# Leetcode-Solutions
+# 🚀 Leetcode-Solutions  
 
-# Leetcode-Solutions
+[![Made with C++](https://img.shields.io/badge/Made%20with-C++-00599C?logo=cplusplus&logoColor=white)](https://isocpp.org/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-Problems-orange?logo=leetcode&logoColor=white)](https://leetcode.com/)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
 
-This repository contains my C# solutions to various **LeetCode problems**, written with clean and efficient code.  
-Great for interview prep and practicing algorithms/data structures.
+📘 This repository contains my **C++ solutions** to various **LeetCode problems**, written with clean and efficient code.  
+Great for **interview prep** and practicing **algorithms/data structures**.  
 
 ---
 
 ## 📂 Repository Structure
+
 Leetcode-Solutions/
 ├── [problem-number]-[problem-name]/
-│ ├── Solution.cs
+│ ├── solution.cpp
 │ └── README.md (optional explanation)
 └── README.md
 
-yaml
-Copy
-Edit
 
 ---
 
-## 🚀 How to Use
-1. Clone this repo:
+## ⚡ How to Use
+1. **Clone the repo**  
    ```bash
    git clone https://github.com/Ashutosh3678/Leetcode-Solutions.git
    cd Leetcode-Solutions
-Open a .cs file in your IDE (VS Code, Visual Studio, Rider).
+Open a solution
 
-Run with .NET CLI:
+2.Open any .cpp file in your editor (VS Code, CLion, Code::Blocks, DevC++, etc.).
 
-bash
-Copy
-Edit
-dotnet run
+3.Compile & Run
+
+g++ solution.cpp -o solution
+./solution
+
 ✨ Features
-Structured problem-wise folders
 
-Pure C# solutions (no extra libraries)
+🗂️ Structured problem-wise folders
 
-Covers multiple topics: Arrays, Strings, Linked Lists, Trees, DP, Graphs, etc.
+🔵 Pure C++ solutions (no extra libraries)
 
-Easy to browse and run
+📑 Covers multiple topics: Arrays, Strings, Linked Lists, Trees, DP, Graphs, etc.
 
-🛠️ Roadmap
-Add topic-wise categorization (DP, Graphs, etc.)
+⚡ Easy to browse, compile, and run
 
-Include detailed explanations & complexity analysis
+🛣️ Roadmap
 
-Add unit tests for solutions
+🔹 Add topic-wise categorization (DP, Graphs, etc.)
+
+🔹 Include detailed explanations & complexity analysis
+
+🔹 Add unit tests for solutions
 
 🤝 Contributing
-Contributions are welcome!
-Open an issue for suggestions or submit a pull request with improvements.
+
+Contributions are welcome! 🎉
+
+Open an issue to suggest improvements
+
+Submit a pull request with new solutions or explanations
+
+📜 License
+
+This project is licensed under the MIT License.
